@@ -10,6 +10,10 @@ This is my first project which is done as a part of competition organised by IIT
 The goal of the project is to make the vehicle move autonomously and pick up the fresh fruits and leaving damaged fruits, with the help of information provided by overhead camera. Once the fruit is picked it needs to place it in a truck moving around the field 
 This vehicle has no sensors inbuilt. A communication is between the camera-> laptop and microcontroller using XIGbee.<br> 
 <a href="https://drive.google.com/open?id=1tU7MSPkeAWGN6zT02Zy0HHwI29mj2O2N"><ul><i>Click here to see the demo</i></ul></a><br>
+
+[![VREP Simulation](https://img.youtube.com/vi/mlAL4llmNN8/0.jpg)](https://www.youtube.com/watch?v=mlAL4llmNN8)
+
+
 The above video was taken during the initial stages.
 <hr>
 
