@@ -12,12 +12,13 @@ This vehicle has no sensors inbuilt. A communication is between the camera-> lap
 <a href="https://drive.google.com/open?id=1tU7MSPkeAWGN6zT02Zy0HHwI29mj2O2N"><ul><i>Click here to see the demo</i></ul></a><br>
 
 
+
+The above video was taken during the initial stages.
+
 ## Click the image to see vrep simulation
 
 [![VREP Simulation](https://img.youtube.com/vi/mlAL4llmNN8/0.jpg)](https://www.youtube.com/watch?v=mlAL4llmNN8)
 
-
-The above video was taken during the initial stages.
 <hr>
 
 ![collectorbot](https://user-images.githubusercontent.com/38732642/39397615-f0e8950a-4b1f-11e8-8b8e-8dda70cc81e3.JPG)
